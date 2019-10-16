@@ -21,7 +21,7 @@ end
 
 def print(names)
   names.each do |name|
-    puts names
+    puts name
   end
 end
 
