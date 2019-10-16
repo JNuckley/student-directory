@@ -1,8 +1,6 @@
 student_count = 11
 #first we need to list the students in an array
 students = [
-  "The students of Villains Academy",
-  "-------------",
   "Dr. Hannibal Lecter",
   "Darth Vader",
   "Nurse Ratched",
