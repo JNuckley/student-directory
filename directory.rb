@@ -26,7 +26,7 @@ def print(students)
 end
 
 def print_footer(names)
-  puts "Overall, we have #{name.count} great students"
+  puts "Overall, we have #{:name.count} great students"
 end
 
 #Nothing will happen until you call on the methods
